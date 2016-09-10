@@ -1,4 +1,4 @@
-package week01.Sample;
+package Sample;
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
 /**

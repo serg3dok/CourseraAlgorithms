@@ -1,12 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/week01/Sample/PercolationStats.java" />
+    <bookmark url="file://$PROJECT_DIR$/src/Sample/PercolationStats.java" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bd60494-80fb-4266-8b66-2f51aef6120d" name="Default" comment="setup environment">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/week01/Sample/PercolationStats.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/week01/PercolationSample.java" afterPath="$PROJECT_DIR$/src/week01/Sample/Percolation.java" />
+    <list default="true" id="8bd60494-80fb-4266-8b66-2f51aef6120d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/BaseballElimination.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/Board.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/Brute.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/BurrowsWheeler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/CircularSuffixArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/Deque.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/Fast.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/KdTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/KdTreeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/KdTreeVisualizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/MoveToFront.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/NearestNeighborVisualizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/Outcast.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/PointSET.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/RandomizedQueue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/RangeSearchVisualizer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/RectHV.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/SAP.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/SeamCarver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/Solver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/Subset.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sample/WordNet.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/week01/Sample/PercolationStats.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/week01/Sample/Percolation.java" afterPath="$PROJECT_DIR$/src/Sample/Percolation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/week01/Sample/PercolationStats.java" afterPath="$PROJECT_DIR$/src/Sample/PercolationStats.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CourseraAlgorithms.iws" />
@@ -41,26 +65,23 @@
         </entry>
       </file>
       <file leaf-file-name="Percolation.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/week01/Sample/Percolation.java">
+        <entry file="file://$PROJECT_DIR$/src/Sample/Percolation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <element signature="e#2251#2252#0" expanded="true" />
-                <element signature="e#2337#2338#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="PercolationStats.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/week01/Sample/PercolationStats.java">
+        <entry file="file://$PROJECT_DIR$/src/Sample/PercolationStats.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="820">
+            <state relative-caret-position="1173">
               <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
               <folding>
-                <element signature="e#1526#1527#0" expanded="true" />
-                <element signature="e#1593#1594#0" expanded="true" />
+                <element signature="e#1519#1520#0" expanded="true" />
+                <element signature="e#1586#1587#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/week01/Sample/PercolationStats.java" />
         <option value="$PROJECT_DIR$/src/week01/Sample/PercolationSample.java" />
         <option value="$PROJECT_DIR$/src/week01/Sample/Percolation.java" />
+        <option value="$PROJECT_DIR$/src/Sample/Percolation.java" />
       </list>
     </option>
   </component>
@@ -151,6 +173,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -201,18 +224,9 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="week01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -252,11 +266,11 @@
     <configuration default="false" name="PercolationStats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="week01.Sample.*" />
+          <option name="PATTERN" value="Sample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="week01.Sample.PercolationStats" />
+      <option name="MAIN_CLASS_NAME" value="Sample.PercolationStats" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -671,7 +685,8 @@
       <option name="presentableId" value="Default" />
       <updated>1473391056066</updated>
       <workItem from="1473391060029" duration="3077000" />
-      <workItem from="1473465878825" duration="1298000" />
+      <workItem from="1473465878825" duration="1391000" />
+      <workItem from="1473467460087" duration="31000" />
     </task>
     <task id="LOCAL-00001" summary="setup environment">
       <created>1473466838010</created>
@@ -680,11 +695,18 @@
       <option name="project" value="LOCAL" />
       <updated>1473466838010</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="setup environment">
+      <created>1473467219582</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1473467219582</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4375000" />
+    <option name="totallyTimeSpent" value="4499000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="39" y="97" width="1336" height="1235" extended-state="0" />
@@ -692,28 +714,28 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3038674" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21823205" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2694704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2694704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39963168" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39963168" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3038674" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21823205" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -728,12 +750,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/week01/Sample/PercolationStats.java</url>
+          <url>file://$PROJECT_DIR$/src/Sample/PercolationStats.java</url>
           <line>68</line>
           <properties class="week01.Sample.PercolationStats" method="main" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/week01/Sample/PercolationStats.java</url>
+          <url>file://$PROJECT_DIR$/src/Sample/PercolationStats.java</url>
           <line>69</line>
           <properties />
           <option name="timeStamp" value="2" />
@@ -750,13 +772,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/week01/Percolation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="34">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.classpath">
+    <entry file="file://$PROJECT_DIR$/src/Sample/Percolation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -764,6 +786,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sample/PercolationStats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding>
+            <element signature="e#1519#1520#0" expanded="true" />
+            <element signature="e#1586#1587#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week01/Percolation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath" />
     <entry file="file://$PROJECT_DIR$/src/week01/Percolation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -772,25 +814,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week01/Sample/PercolationStats.java">
+    <entry file="file://$PROJECT_DIR$/src/Sample/PercolationStats.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="820">
+        <state relative-caret-position="1173">
           <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
           <folding>
-            <element signature="e#1526#1527#0" expanded="true" />
-            <element signature="e#1593#1594#0" expanded="true" />
+            <element signature="e#1519#1520#0" expanded="true" />
+            <element signature="e#1586#1587#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week01/Sample/Percolation.java">
+    <entry file="file://$PROJECT_DIR$/src/Sample/Percolation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#2251#2252#0" expanded="true" />
-            <element signature="e#2337#2338#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
