@@ -1,10 +1,10 @@
-package week01;
+package week01.Sample;
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
 /**
  * Created by sergeyo on 9/9/2016.
  */
-public class PercolationSample {
+public class Percolation {
 
     private boolean[] mat = null;
 
@@ -18,7 +18,7 @@ public class PercolationSample {
 
     private final int[] my = { 0, -1, 0, 1 };
 
-    public PercolationSample(int N) { // create N-by-N grid, with all sites blocked
+    public Percolation(int N) { // create N-by-N grid, with all sites blocked
         mat = new boolean[N * N];
         for (int i = 0; i < N; i++)
             for (int j = 0; j < N; j++)
