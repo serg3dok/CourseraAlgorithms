@@ -29,7 +29,7 @@ public class Percolation {
     public void open(int i, int j)          // open site (row i, column j) if it is not open already
     {
         matrix[i][j] = 1;
-        line[i * n + j] = ;
+        line[i * n + j] = 0;
     }
 
     public boolean isOpen(int i, int j)     // is site (row i, column j) open?
